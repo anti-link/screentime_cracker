@@ -1,0 +1,12 @@
+[package]
+name = "screentime_cracker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+clap = { version = "4.5.21", features = ["derive"] }
+hmac = "0.12.1"
+indicatif = "0.17.9"
+pbkdf2 = "0.12.2"
+sha1 = "0.10.6"
