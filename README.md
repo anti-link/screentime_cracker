@@ -1,4 +1,4 @@
 # Screentime Cracker
 An iOS screentime PIN cracker written in Rust.
 
-Usage: ios_screentime_cracker.exe --hash <HASH> --salt <SALT>
+Usage: ./screentime_cracker --hash <HASH> --salt <SALT>
